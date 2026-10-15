@@ -32,19 +32,19 @@ The original MSc assignment developed Tableau dashboard visualisations based on 
 
 ### Executive overview
 
-![Executive Tableau dashboard](images/executive_dashboard.jpeg)
+![Executive Tableau dashboard](images/executive_dashboard.png)
 
 ### Product and profitability analysis
 
-![Profitability analysis](images/profitability_analysis.jpeg)
+![Profitability analysis](images/profitability_analysis.png)
 
 ### Shipping and fulfilment analysis
 
-![Shipping analysis](images/shipping_analysis.jpeg)
+![Shipping analysis](images/shipping_analysis.png)
 
 ### Returns and margin analysis
 
-![Returns analysis](images/returns_analysis.jpeg)
+![Returns analysis](images/returns_analysis.png)
 
 ## Process and analysis
 
