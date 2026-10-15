@@ -66,7 +66,7 @@ These are **observational findings**, not evidence of proven causal effects or r
 
 ## Repository contents
 
-- [`images/`] — four selected figures or dashboard screenshots.
+- [`images/`](images/) — four selected figures or dashboard screenshots.
 - [`documentation/analysis_summary.md`](documentation/analysis_summary.md) — data preparation, methods, results and recommended actions.
 
 **Workbook availability:** The Tableau `.twb/.twbx` source used during university work is not currently available. This repository therefore documents the project through screenshots and methodological notes; it **does not claim to provide a runnable interactive Tableau dashboard**. If the workbook is recovered and sharing is permitted, it can be added later.
